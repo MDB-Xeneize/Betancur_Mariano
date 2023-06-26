@@ -4,7 +4,7 @@
 
 ### Silicon Misiones - [Sitio web](https://siliconmisiones.gob.ar/)
 
-#### Autor: [Nombre y apellido del estudiante]
+#### Autor: Betancur Mariano Daniel
 
 #### Descripción
 Este repositorio fue creado con fines académicos. Contiene los ejercicios resueltos del Módulo 1 del curso de programación full stack.
